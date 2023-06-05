@@ -1,0 +1,9 @@
+spider;17
+disney;0
+joc;12
+avatar;9
+craciun;11
+actiune;12
+black;20
+minnie;32
+nou;32
